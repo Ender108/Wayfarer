@@ -20,8 +20,8 @@ This modlist was built off of the excellent Viva New Vegas guide. Please go chec
 
 ### Installation Steps
 
-1. Download and install Visual C++ 2019.
-2. Download and install .NET Framework 4.8.
+1. Download and install [Visual C++ 2019](https://aka.ms/vs/16/release/vc_redist.x64.exe).
+2. Download and install [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer).
 3. Uninstall Fallout: New Vegas if you already have it installed through Steam or GOG. Ensure the game folder is deleted (...Steam\steamapps\common\Fallout New Vegas OR ...GOG Galaxy\Games\Fallout New Vegas). Ensure the INI files folder is deleted (...Documents\My Games\FalloutNV)
 4. Download and install Fallout: New Vegas through Steam or GOG. It must be installed outside of the Program Files folders in your Windows drive, and the game's language must be set to English.
 5. Run Fallout: New Vegas through Steam or GOG to generate the INI files, click OK, and then click Play. Once you are at the main menu, you can exit.
