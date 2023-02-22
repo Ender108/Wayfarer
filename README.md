@@ -12,8 +12,6 @@ Wayfarer is a lightweight Wabbajack modlist for New Vegas. The goal of Wayfarer 
 
 This modlist was built off of the excellent Viva New Vegas guide. Please go check it out as it's a great resource for New Vegas modding.
 
-Click [here](https://loadorderlibrary.com/lists/wayfarer) to see the full list of mods.
-
 ### Requirements
 
 - Steam or GOG version of Fallout: New Vegas Ultimate Edition.
