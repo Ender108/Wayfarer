@@ -17,7 +17,7 @@ Click [here](https://loadorderlibrary.com/lists/wayfarer) to see the full list o
 ### Requirements
 
 - Steam or GOG version of Fallout: New Vegas Ultimate Edition.
-- Any PC from the last decade (with a SSD, highly recommended).
+- Any PC from the last decade (a SSD is also highly recommended).
 
 
 ### Installation Steps
