@@ -5,5 +5,7 @@ This update is save safe. If you are wearing power armor I would recommend unequ
 ## Updated
 - Set bCharacterMeleeDamageIgnoresScale=1 and bCharacterNonMeleeDamageIgnoresScale=1 in Stewie Tweaks Essentials INI
 
+
+
 # Version 1.0.0
 - Release
