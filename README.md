@@ -27,11 +27,10 @@ This modlist was built off of the excellent Viva New Vegas guide. Please go chec
 5. Run Fallout: New Vegas through Steam or GOG to generate the INI files, click OK, and then click Play. Once you are at the main menu, you can exit.
 6. Download and install Wabbajack in any location if you haven't already. Click the settings icon in the top right then log in with your Nexus Mods account.
 7. In the Wabbajack main menu, click Browse Modlists, in the dropdown menu in the top right select Fallout New Vegas, then click Show Unofficial Lists.
-8. Launch Wabbajack and click Install From Disk, click the three dots next to Target Modlist, then point it to wherever you downloaded the Wayfarer.wabbajack file.
-9. Click the download button under Wayfarer then click the play button. Click the three dots next to Modlist Installation Location and select a location to install Wayfarer. DO NOT install the modlist in the Wabbajack installation folder OR the Fallout New Vegas installation folder.
-10. Click the Start Arrow button and let Wabbajack do its thing. If it gives you an error during installation, exit Wabbajack and try installing the list again.
-11. Once installation is completed, navigate to your Wayfarer installation directory and open ModOrganizer.exe
-12. Click Run in the top right corner. You are now playing Wayfarer. Good luck and happy trails!
+8. Click the download button under Wayfarer then click the play button. Click the three dots next to Modlist Installation Location and select a location to install Wayfarer. DO NOT install the modlist in the Wabbajack installation folder OR the Fallout New Vegas installation folder.
+9. Click the Start Arrow button and let Wabbajack do its thing. If it gives you an error during installation, exit Wabbajack and try installing the list again.
+10. Once installation is completed, navigate to your Wayfarer installation directory and open ModOrganizer.exe
+11. Click Run in the top right corner. You are now playing Wayfarer. Good luck and happy trails!
 
 
 ### Support
