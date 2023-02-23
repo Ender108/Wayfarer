@@ -3,6 +3,7 @@ This update is NOT save safe.
 ### Added
 - Vicious Wastes - Difficulty Rebalance
 - Water Overhaul
+- Hardcore Forever (Hardcore mode will be enabled by defualt, you can still turn it off in the gameplay menu)
 ### Removed
 - Fallout New Vegas Weapons Rebalanced, Extras, and Nerfs
 - PlatinumShadow Perks
