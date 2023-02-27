@@ -29,7 +29,7 @@ This modlist was built off of the excellent Viva New Vegas guide. Please go chec
 7. In the Wabbajack main menu, click Browse Modlists, in the dropdown menu in the top right select Fallout New Vegas, then click Show Unofficial Lists.
 8. Click the download button under Wayfarer then click the play button. Click the three dots next to Modlist Installation Location and select a location to install Wayfarer. DO NOT install the modlist in the Wabbajack installation folder OR the Fallout New Vegas installation folder.
 9. Click the Start Arrow button and let Wabbajack do its thing. If it gives you an error during installation, exit Wabbajack and try installing the list again.
-10. Once Wayfarer installation is complete, go to your Wayfarer installation folder and open the BSA Decompressor folder. Run FNV BSA Decompressor.exe, click Browse, then point it towards the Stock Game folder in your Wayfarer installation. This process will take a few minutes.
+10. THIS STEP IS NOT OPTIONAL! Once Wayfarer installation is complete, go to your Wayfarer installation folder and open the BSA Decompressor folder. Run FNV BSA Decompressor.exe, click Browse, then point it towards the Stock Game folder in your Wayfarer installation. This process will take a few minutes.
 10. Once the BSA Decompressor is completed you can exit, then navigate to your Wayfarer installation directory and open ModOrganizer.exe
 11. Click Run in the top right corner. You are now playing Wayfarer. Good luck and happy trails!
 
