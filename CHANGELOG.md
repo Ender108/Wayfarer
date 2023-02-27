@@ -10,6 +10,7 @@ This update is NOT save safe.
 - Fallout New Vegas Weapons Rebalanced, Extras, and Nerfs
 - PlatinumShadow Perks
 - Famine
+- JIP Localized Damage Fix 
 ### Updated
 - Now using Stock Game folder instead of Root Builder
 - New Vegas Heap Replacer 4.2
