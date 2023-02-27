@@ -4,10 +4,15 @@ This update is NOT save safe.
 - Vicious Wastes - Difficulty Rebalance
 - Water Overhaul
 - Hardcore Forever (Hardcore mode will be enabled by defualt, you can still turn it off in the gameplay menu)
+- BSA Decompressor (Users will be required to run this post-installation)
 ### Removed
 - Fallout New Vegas Weapons Rebalanced, Extras, and Nerfs
 - PlatinumShadow Perks
 - Famine
+### Updated
+- Now using Stock Game folder instead of Root Builder
+- New Vegas Heap Replacer 4.2
+- Brave New World (Using scripted voice replacer instead of voice and face replacer)
 
 ## Version 1.0.1
 This update is save safe. If you are wearing power armor I would recommend unequipping it first.
