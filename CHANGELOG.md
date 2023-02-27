@@ -9,7 +9,6 @@ This update is NOT save safe.
 - Strip Lights Region Fix - The Living Desert Patch
 - Strip Lights Region Fix - Uncut Wasteland Patch
 - Lucky 38's Smooth Balls
-- Blended Rockomotion
 ### Removed
 - OneTweak but Really Updated 
 - JIP Localized Damage Fix 
@@ -24,7 +23,6 @@ This update is NOT save safe.
 - Essential Vanilla Enhancements Merged 1.3.1
 - Brave New World (Using scripted voice replacer instead of voice and face replacer)
 - Set bLocalizedDTDR=0 in JIP LN INI
-- Butcher Pete Animations (Using Hitman locomation version)
 
 ## Version 1.0.1
 This update is save safe. If you are wearing power armor I would recommend unequipping it first.
