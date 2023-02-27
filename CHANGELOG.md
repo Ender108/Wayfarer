@@ -1,5 +1,5 @@
 ## Version 1.1.0
-Big update to Wayfarer. I've done a bit of rebranding to have Wayfarer be a lighweight difficulty based modlist since that was always my original intention.
+Big update to Wayfarer. I've done a bit of rebranding to have Wayfarer be a lightweight difficulty based modlist since that was always my original intention.
 
 The biggest gameplay update is the addition of Vicious Wastes: A rebalance mod intended to keep the game interesting and challenging for experienced players. This mod alone will make the game noticeably more difficult, but there is an optional mod that will revert almost all the changes from VW and JSUE back to vanilla for those who want a much easier vanilla-esque experience.
 
