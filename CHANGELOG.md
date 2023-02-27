@@ -14,6 +14,7 @@ This update is NOT save safe.
 - Now using Stock Game folder instead of Root Builder
 - New Vegas Heap Replacer 4.2
 - Brave New World (Using scripted voice replacer instead of voice and face replacer)
+- Set bLocalizedDTDR=0 in JIP LN INI
 
 ## Version 1.0.1
 This update is save safe. If you are wearing power armor I would recommend unequipping it first.
