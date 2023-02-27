@@ -14,6 +14,7 @@ This update is NOT save safe.
 - Fallout New Vegas Weapons Rebalanced, Extras, and Nerfs
 - Famine
 - PlatinumShadow Perks
+- RAD - Radiation (is) Actually Dangerous - Overhaul 
 ### Updated
 - Now using Stock Game folder instead of Root Builder
 - New Vegas Heap Replacer 4.2
