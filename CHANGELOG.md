@@ -7,11 +7,12 @@ This update is NOT save safe.
 - BSA Decompressor (Users will be required to run this post-installation)
 - B42 Notify
 ### Removed
-- Fallout New Vegas Weapons Rebalanced, Extras, and Nerfs
-- PlatinumShadow Perks
-- Famine
+- OneTweak but Really Updated 
 - JIP Localized Damage Fix 
 - Contextual HUD + Clean Vanilla HUD Patch
+- Fallout New Vegas Weapons Rebalanced, Extras, and Nerfs
+- Famine
+- PlatinumShadow Perks
 ### Updated
 - Now using Stock Game folder instead of Root Builder
 - New Vegas Heap Replacer 4.2
