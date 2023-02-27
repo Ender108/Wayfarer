@@ -1,4 +1,4 @@
-## (Unreleased) Version 1.1.0
+## Version 1.1.0
 This update is NOT save safe.
 ### Added
 - BSA Decompressor (Users will be required to run this post-installation)
