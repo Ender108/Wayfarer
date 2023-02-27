@@ -5,6 +5,8 @@ The biggest gameplay update is the addition of Vicious Wastes: A rebalance mod i
 
 This update will also now use the Stock Game folder system instead of Root Builder. The downsides to this are a bigger post install file size and no GOG support (although GOG versions were never working to begin with lol). The upsides are that I can now use the latest version of NVHR and have users manually run BSA Decompressor post install, furthering game stability all while keeping your Steam New Vegas installation clean.
 
+Please make sure you read the new install instructions for running BSA Decompressor.
+
 I hope you guys enjoy this new update. Let me know how many times you got you destroyed when playing Vicious Wastes.
 
 This update is NOT save safe.
