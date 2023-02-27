@@ -8,7 +8,7 @@
 
 ### Introduction
 
-Wayfarer is a lightweight Wabbajack modlist for New Vegas. The goal of Wayfarer is to improve gameplay in a challenging yet rewarding way without completely overhauling the core New Vegas experience. Wayfarer also includes all essential stability mods and keeps visual mods to an absolute minimum to maximize performance.
+Wayfarer is a lightweight difficulty based modlist for New Vegas. The goal of Wayfarer is to improve gameplay in a challenging yet rewarding way without completely overhauling the core New Vegas experience. Wayfarer also includes all essential stability mods and keeps visual mods to an absolute minimum to maximize performance.
 
 This modlist was built off of the excellent Viva New Vegas guide. Please go check it out as it's a great resource for New Vegas modding.
 
