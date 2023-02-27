@@ -1,3 +1,7 @@
+## Version 1.1.2
+### Updated
+- Fixed Vicious Wastes detecting a false critical error upon loading a new game or save.
+
 ## Version 1.1.1
 ### Updated
 - Forgot to set bCharacterMeleeDamageIgnoresScale=1 and bCharacterNonMeleeDamageIgnoresScale=1 in Stewie Tweaks Essentials INI
