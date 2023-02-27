@@ -16,6 +16,7 @@ This update is NOT save safe.
 - Famine
 - PlatinumShadow Perks
 - RAD - Radiation (is) Actually Dangerous - Overhaul 
+- LOD Additions and Improvements YUP Patch 
 ### Updated
 - Now using Stock Game folder instead of Root Builder
 - New Vegas Heap Replacer 4.2
