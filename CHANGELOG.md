@@ -6,6 +6,7 @@ This update is NOT save safe.
 - Hardcore Forever (Hardcore mode will be enabled by defualt, you can still turn it off in the gameplay menu)
 - Vicious Wastes - Difficulty Rebalance
 - Water Overhaul
+- Blended Rockomotion
 ### Removed
 - OneTweak but Really Updated 
 - JIP Localized Damage Fix 
