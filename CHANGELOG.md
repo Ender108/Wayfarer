@@ -15,6 +15,7 @@ This update is NOT save safe.
 ### Updated
 - Now using Stock Game folder instead of Root Builder
 - New Vegas Heap Replacer 4.2
+- Essential Vanilla Enhancements Merged 1.3.1
 - Brave New World (Using scripted voice replacer instead of voice and face replacer)
 - Set bLocalizedDTDR=0 in JIP LN INI
 
