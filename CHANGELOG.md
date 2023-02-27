@@ -7,6 +7,7 @@ This update is NOT save safe.
 ### Removed
 - Fallout New Vegas Weapons Rebalanced, Extras, and Nerfs
 - PlatinumShadow Perks
+- Famine
 
 ## Version 1.0.1
 This update is save safe. If you are wearing power armor I would recommend unequipping it first.
