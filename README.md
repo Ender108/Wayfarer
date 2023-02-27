@@ -14,7 +14,7 @@ This modlist was built off of the excellent Viva New Vegas guide. Please go chec
 
 ### Requirements
 
-- Steam version of Fallout: New Vegas Ultimate Edition. The GOG version is NOT supported.
+- Global steam version of Fallout: New Vegas Ultimate Edition (PSR/RU versions not supported). The GOG version is NOT supported.
 - Any PC from the last decade (a SSD is also highly recommended).
 
 
