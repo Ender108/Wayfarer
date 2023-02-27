@@ -11,6 +11,7 @@ This update is NOT save safe.
 - PlatinumShadow Perks
 - Famine
 - JIP Localized Damage Fix 
+- Contextual HUD + Clean Vanilla HUD Patch
 ### Updated
 - Now using Stock Game folder instead of Root Builder
 - New Vegas Heap Replacer 4.2
