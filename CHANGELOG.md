@@ -8,6 +8,7 @@ This update is NOT save safe.
 - Water Overhaul
 - Strip Lights Region Fix - The Living Desert Patch
 - Strip Lights Region Fix - Uncut Wasteland Patch
+- Lucky 38's Smooth Balls
 - Blended Rockomotion
 ### Removed
 - OneTweak but Really Updated 
