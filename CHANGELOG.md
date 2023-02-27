@@ -5,6 +5,7 @@ This update is NOT save safe.
 - Water Overhaul
 - Hardcore Forever (Hardcore mode will be enabled by defualt, you can still turn it off in the gameplay menu)
 - BSA Decompressor (Users will be required to run this post-installation)
+- B42 Notify
 ### Removed
 - Fallout New Vegas Weapons Rebalanced, Extras, and Nerfs
 - PlatinumShadow Perks
