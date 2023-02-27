@@ -1,3 +1,7 @@
+## Version 1.1.1
+### Updated
+- Forgot to set bCharacterMeleeDamageIgnoresScale=1 and bCharacterNonMeleeDamageIgnoresScale=1 in Stewie Tweaks Essentials INI
+
 ## Version 1.1.0
 Big update to Wayfarer. I've done a bit of rebranding to have Wayfarer be a lightweight difficulty based modlist since that was always my original intention.
 
