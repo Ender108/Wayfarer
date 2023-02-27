@@ -3,7 +3,6 @@ This update is NOT save safe.
 ### Added
 - BSA Decompressor (Users will be required to run this post-installation)
 - B42 Notify
-- Hardcore Forever (Hardcore mode will be enabled by defualt, you can still turn it off in the gameplay menu)
 - Vicious Wastes - Difficulty Rebalance
 - Water Overhaul
 - Strip Lights Region Fix - The Living Desert Patch
