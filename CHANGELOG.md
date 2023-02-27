@@ -1,11 +1,11 @@
 ## (Unreleased) Version 1.1.0
 This update is NOT save safe.
 ### Added
-- Vicious Wastes - Difficulty Rebalance
-- Water Overhaul
-- Hardcore Forever (Hardcore mode will be enabled by defualt, you can still turn it off in the gameplay menu)
 - BSA Decompressor (Users will be required to run this post-installation)
 - B42 Notify
+- Hardcore Forever (Hardcore mode will be enabled by defualt, you can still turn it off in the gameplay menu)
+- Vicious Wastes - Difficulty Rebalance
+- Water Overhaul
 ### Removed
 - OneTweak but Really Updated 
 - JIP Localized Damage Fix 
