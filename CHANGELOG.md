@@ -1,5 +1,12 @@
 ## Version 1.1.0
-Big update to Wayfarer. This update will now use the Stock Game folder system instead of Root Builder. The downsides to this are bigger file size and no GOG support (although it was never working to begin with lol). The upsides are that I can now use the latest version of NVHR and have users manually run the BSA decompressor post install, all while keeping your Steam New Vegas installation clean. The biggest gameplay update is the addition of Vicious Wastes: A rebalance mod intended to keep the game interesting and challenging for experienced players. This mod alone will make the game noticeably more difficult, but there is an optional mod that will revert almost all the changes from VW back to vanilla for those who want a more vanilla-esque experience.
+Big update to Wayfarer. I've done a bit of rebranding to have Wayfarer be a lighweight difficulty based modlist since that was always my original intention.
+
+The biggest gameplay update is the addition of Vicious Wastes: A rebalance mod intended to keep the game interesting and challenging for experienced players. This mod alone will make the game noticeably more difficult, but there is an optional mod that will revert almost all the changes from VW and JSUE back to vanilla for those who want a much easier vanilla-esque experience.
+
+This update will also now use the Stock Game folder system instead of Root Builder. The downsides to this are a bigger post install file size and no GOG support (although GOG versions were never working to begin with lol). The upsides are that I can now use the latest version of NVHR and have users manually run BSA Decompressor post install, furthering game stability all while keeping your Steam New Vegas installation clean.
+
+I hope you guys enjoy this new update. Let me know how many times you got you destroyed when playing Vicious Wastes.
+
 This update is NOT save safe.
 ### Added
 - BSA Decompressor (Users will be required to run this post-installation)
