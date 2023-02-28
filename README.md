@@ -36,7 +36,7 @@ This modlist was built off of the excellent Viva New Vegas guide. Please go chec
 ### New Game Steps
 1. After exiting Doc Mitchell's house, pasue the game and open the Mod Configuration Menu, click "Vicious Wastes", click "Main", and then scroll down to click "Load Preset". This will load a custom Vicious Wastes preset made for Wayfarer. You can change any of the MCM options for VW as you see fit, just keep in mind it will affect the balance intended for Wayfarer.
 2. Other MCM options under FOV Slider and Just Mods can be customized however you want.
-3. If you want a vanilla-eqsue experience without any of the difficulty enhancing gameplay from Vicious Wastes, enable "Wayfarer - Vanilla Gameplay INIs" under the "Optional Mods" tab.
+3. If you want a vanilla-eqsue experience without any of the difficulty enhancing gameplay from Vicious Wastes, enable "Wayfarer - Vanilla Gameplay INIs" under the "Optional Mods" tab. Follow the Step 1 to load the necessary vanilla preset.
 
 
 ### Support
