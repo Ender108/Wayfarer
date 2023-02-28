@@ -33,6 +33,11 @@ This modlist was built off of the excellent Viva New Vegas guide. Please go chec
 10. Once the BSA Decompressor is completed you can exit, then navigate to your Wayfarer installation directory and open "ModOrganizer.exe".
 11. Click "Run" in the top right corner. You are now playing Wayfarer. Good luck and happy trails!
 
+### New Game Steps
+1. After exiting Doc Mitchell's house, pasue the game and open the Mod Configuration Menu, click "Vicious Wastes", click "Main", and then scroll down to click "Load Preset". This will load a custom Vicious Wastes preset made for Wayfarer. You can change any of the MCM options for VW as you see fit, just keep in mind it will affect the balance intended for Wayfarer.
+2. Other MCM options under FOV Slider and Just Mods can be customized however you want.
+3. If you want a vanilla-eqsue experience without any of the difficulty enhancing gameplay from Vicious Wastes, enable "Wayfarer - Vanilla Gameplay INIs" under the "Optional Mods" tab.
+
 
 ### Support
 Please join the [Lost Outpost](https://discord.com/invite/WF66mMu) Discord for questions/help with Wayfarer.
