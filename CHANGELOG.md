@@ -1,3 +1,8 @@
+## Version 1.1.4
+This update is save safe.
+### Updated
+- Fixed archive list in Fallout.ini so it loads all bsa files after running BSA Decompressor.
+
 ## Version 1.1.3
 This update is save safe.
 ### Updated
