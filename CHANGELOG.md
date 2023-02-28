@@ -1,4 +1,4 @@
-## 1.1.3
+## Version 1.1.3
 This update is save safe.
 ### Updated
 - Re-ordered plugins and re-ran xLODGen to fix Lucky 38 LOD appearing invisible.
