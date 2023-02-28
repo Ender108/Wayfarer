@@ -1,7 +1,7 @@
 ## Version 1.1.5
 This update is save safe.
 ### Added
-- Vicious Wastes - Wayfarer Settings (Customized settings for VW)
+- Vicious Wastes - Wayfarer Settings (Customized settings for VW, steps to load the preset are provided under New Game Steps in the Readme)
 ### Removed
 - Wayfarer Just Mods Config (Didn't really change anything, users can customize if they want)
 
