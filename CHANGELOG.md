@@ -1,3 +1,10 @@
+## Version 1.1.5
+This update is save safe.
+### Added
+- Vicious Wastes - Wayfarer Settings (Customized settings for VW)
+### Removed
+- Wayfarer Just Mods Config (Didn't really change anything, users can customize if they want)
+
 ## Version 1.1.4
 This update is save safe.
 ### Updated
@@ -27,7 +34,7 @@ This update will also now use the Stock Game folder system instead of Root Build
 
 Please make sure you read the new install instructions for running BSA Decompressor.
 
-I hope you guys enjoy this new update. Let me know how many times you got you destroyed when playing Vicious Wastes.
+I hoped you guys enjoy this new update. Let me know how many times you got you destroyed when playing Vicious Wastes.
 
 This update is NOT save safe.
 ### Added
