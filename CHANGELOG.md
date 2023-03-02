@@ -1,3 +1,12 @@
+## (Unreleased) Version 1.1.6
+This update is save safe.
+### Added
+- Dynamic Weapon Spread
+- Inaccurate NPCs - ESPless - De-aimbotting the Wasteland (50 version)
+- PlatinumShad0w Perks
+### Updated
+- 
+
 ## Version 1.1.5
 This update is save safe.
 ### Added
