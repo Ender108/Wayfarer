@@ -3,6 +3,7 @@ This update is NOT save safe.
 ### Added
 - Famine - A Loot Rarity Mod
 - JSawyer Ultimate Edition - Water Overhaul Patch
+- Immersive Fast Travel Requirements + Water Overhaul Patch
 - Repair Requires Materials
 - Progressive Sneak Attack Damage
 - RAD - Radiation (is) Actually Dangerous - Overhaul
