@@ -10,6 +10,8 @@
 
 - [Repair Requires Materials](https://www.nexusmods.com/newvegas/mods/75145) makes reparing equipment require a material (Scrap Electronics, Scrap Metal, Duct Tape, Wonderglue, Leather Belt) and a tool (Wrench, Hammer, Whet Stone). The higher your Repair skill, the lower the chance the materials and tools will break upon repairing an item.
 
+## Survival
+
 - [RAD Overhaul](https://www.nexusmods.com/newvegas/mods/71541) decreases your max health based on how many rads you have, identical to Fallout 4. It also decreases your max action points depending on the severity of your Hardcore needs.
 
 - [Immersive Fast Travel Requirements](https://www.nexusmods.com/newvegas/mods/73627?tab=description) makes fast traveling require either Trail Mix or Caravan Lunch and a Clear Water. A new perk called "Well Traveled" can be taken at level 10 and 40 Survival skill to reduce/eliminate these requirements.
