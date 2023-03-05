@@ -1,6 +1,7 @@
 ## Version 1.2.0
 This update is NOT save safe.
 ### Added
+- Weapon Requirements System
 - Famine - A Loot Rarity Mod
 - JSawyer Ultimate Edition - Water Overhaul Patch
 - Immersive Fast Travel Requirements + Water Overhaul Patch
