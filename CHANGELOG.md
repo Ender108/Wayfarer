@@ -15,6 +15,8 @@ This update is NOT save safe.
 - Vicious Wastes
 - Vicious Wastes - Wayfarer Settings
 - Brave New World + Hotfix
+- FNV Clean Animations + Update
+- Butcher Pete Complete - A Melee Animation Overhaul
 ### Updated 
 - Set bEnableFO3Repair=0 in JIP LN NVSE Plugin
 
