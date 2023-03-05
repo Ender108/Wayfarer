@@ -2,7 +2,7 @@
 
 ### I strongly recommend taking a look at the Load Order Library and visiting the mod page for a mod you are curious or have questions about since I can't cover every gameplay change here. Below are what I feel to be the most notable ones.
 
--[JSawyer Ultiamte Edition](https://www.nexusmods.com/newvegas/mods/61592) is the definitive rebalancing mod for New Vegas, based off of the original plugin made by the game director Josh Sawyer. It aims to stay as true as possible to the source material, and clean up any inconsistencies or errors there were, whilst generally refining things and improving compatibility with other mods.
+- [JSawyer Ultiamte Edition](https://www.nexusmods.com/newvegas/mods/61592) is the definitive rebalancing mod for New Vegas, based off of the original plugin made by the game director Josh Sawyer. It aims to stay as true as possible to the source material, and clean up any inconsistencies or errors there were, whilst generally refining things and improving compatibility with other mods.
 
 - [Famine](https://www.nexusmods.com/newvegas/mods/74985) creates a much harder gameplay experience by making loot such as meds, ammo, and misc items much more scarce. It also makes all weapons and armor found in the world in much worse condition.
 
