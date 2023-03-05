@@ -12,7 +12,6 @@ This update is NOT save safe.
 - Desert Style Weathers
 ### Removed
 - Vicious Wastes
-- Vicious Wastes - Wayfarer Settings
 - Brave New World + Hotfix
 - FNV Clean Animations + Update
 - Butcher Pete Complete - A Melee Animation Overhaul
