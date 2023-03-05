@@ -8,7 +8,6 @@ This update is NOT save safe.
 - Progressive Sneak Attack Damage
 - RAD - Radiation (is) Actually Dangerous - Overhaul
 - BLEEDLESS
-- Vicous Wastes Damage Multipliers
 - Hit - Rock Recolor
 - Desert Style Weathers
 ### Removed
