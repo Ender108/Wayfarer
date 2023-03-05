@@ -1,4 +1,4 @@
-## 1.2.1
+## Version 1.2.1
 This update is save safe.
 ### Added
 - Hardcore Forever (Hardcore enabled by default)
