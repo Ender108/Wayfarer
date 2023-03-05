@@ -1,4 +1,21 @@
-## (Unreleased) Version 1.1.6
+## (Unreleased) Version 1.2.0
+This update is NOT save safe.
+### Added
+- Famine - A Loot Rarity Mod
+- JSawyer Ultimate Edition - Water Overhaul Patch
+- Repair Requires Materials
+- Progressive Difficulty
+- Progressive Sneak Attack Damage
+- Hit - Rock Recolor
+- Desert Style Weathers
+### Removed
+- Vicious Wastes
+- Vicious Wastes - Wayfarer Settings
+- Brave New World + Hotfix
+### Updated 
+- Set bEnableFO3Repair=0 in JIP LN NVSE Plugin
+
+## Version 1.1.6
 This update is save safe.
 ### Added
 - Dynamic Weapon Spread
@@ -32,7 +49,7 @@ This update is save safe.
 - Forgot to set bCharacterMeleeDamageIgnoresScale=1 and bCharacterNonMeleeDamageIgnoresScale=1 in Stewie Tweaks Essentials INI
 
 ## Version 1.1.0
-Big update to Wayfarer. I've done a bit of rebranding to have Wayfarer be a lightweight difficulty based modlist since that was always my original intention.
+Big update to Wafarer. I've done a bit of rebranding to have Wayfarer be a lightweight difficulty based modlist since that was always my original intention.
 
 The biggest gameplay update is the addition of Vicious Wastes: A rebalance mod intended to keep the game interesting and challenging for experienced players. This mod alone will make the game noticeably more difficult, but there is an optional mod that will revert almost all the changes from VW and JSUE back to vanilla for those who want a much easier vanilla-esque experience.
 
