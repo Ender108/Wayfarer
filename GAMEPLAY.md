@@ -1,6 +1,6 @@
 # Gameplay Guide
 
-## I strongly recommend taking a look at the Load Order Library and visiting the mod page for a mod you are curious or have questions about.
+### I strongly recommend taking a look at the Load Order Library and visiting the mod page for a mod you are curious or have questions about since I can't cover every gameplay change here. Below are what I feel to be the most notable ones.
 
 - [Famine](https://www.nexusmods.com/newvegas/mods/74985) creates a much harder gameplay experience by making loot such as meds, ammo, and misc items much more scarce. It also makes all weapons and armor found in the world in much worse condition.
 
