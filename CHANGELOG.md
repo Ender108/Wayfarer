@@ -1,3 +1,8 @@
+## 1.2.1
+This update is save safe.
+### Added
+- Hardcore Forever (Hardcore enabled by default)
+
 ## Version 1.2.0
 This update is NOT save safe.
 ### Added
