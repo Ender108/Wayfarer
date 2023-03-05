@@ -4,7 +4,7 @@
 
 - [JSawyer Ultiamte Edition](https://www.nexusmods.com/newvegas/mods/61592) is the definitive rebalancing mod for New Vegas, based off of the original plugin made by the game director Josh Sawyer. It aims to stay as true as possible to the source material, and clean up any inconsistencies or errors there were, whilst generally refining things and improving compatibility with other mods.
 
-- [Famine](https://www.nexusmods.com/newvegas/mods/74985) creates a much harder gameplay experience by making loot such as meds, ammo, and misc items much more scarce. It also makes all weapons and armor found in the world in much worse condition.
+- [Famine](https://www.nexusmods.com/newvegas/mods/74985) creates a much harder gameplay experience by making loot such as meds, ammo, and misc items more scarce. It also makes all weapons and armor found in the world in much worse condition.
 
 - Repairing equipment has been made much less trivial thanks to [Repair Requires Materials](https://www.nexusmods.com/newvegas/mods/75145). Simply put, you need a material (Scrap Electronics, Scrap Metal, Duct Tape, Wonderglue, Leather Belt) and a tool (Wrench, Hammer, Whet Stone) to repair equipment. The higher your Repair skill, the lower the chance the materials and tools will break upon repairing an item.
 
