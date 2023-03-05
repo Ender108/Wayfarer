@@ -6,4 +6,4 @@
 
 - [RAD Overhaul](https://www.nexusmods.com/newvegas/mods/71541) decreases your max health based on how many rads you have, identical to Fallout 4. It also decreases your max action points depending on the severity of your Hardcore needs.
 
-- Combat is deadly and fast paced. [BLEEDLESS](https://www.nexusmods.com/newvegas/mods/75660?tab=description) increases the damage applied to limbs, as well as the force and radius of explosions. [Progressive Sneak Attack Damage](https://www.nexusmods.com/newvegas/mods/77571) makes critical sneak attack damage scale with your Sneak skill; no longer are sneak attacks a guaranteed damage boost.
+- Combat is deadly and fast paced. [BLEEDLESS](https://www.nexusmods.com/newvegas/mods/75660?tab=description) increases the damage applied to limbs, as well as the force and radius of explosions. [Progressive Sneak Attack Damage](https://www.nexusmods.com/newvegas/mods/77571) makes sneak attack damage scale with your Sneak skill; no longer are sneak attacks a guaranteed damage boost.
