@@ -19,6 +19,7 @@ This update is NOT save safe.
 - Butcher Pete Complete - A Melee Animation Overhaul
 ### Updated 
 - Set bEnableFO3Repair=0 in JIP LN NVSE Plugin
+- Regenerated LOD for Hit - Rock Recolor
 
 ## Version 1.1.6
 This update is save safe.
