@@ -1,4 +1,4 @@
-## (Unreleased) Version 1.2.0
+## Version 1.2.0
 This update is NOT save safe.
 ### Added
 - Famine - A Loot Rarity Mod
