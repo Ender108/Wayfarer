@@ -1,5 +1,7 @@
 # Gameplay Guide
 
+## I strongly recommend taking a look at the Load Order Library and visiting the mod page for a mod you are curious or have questions about.
+
 - [Famine](https://www.nexusmods.com/newvegas/mods/74985) creates a much harder gameplay experience by making loot such as meds, ammo, and misc items much more scarce. It also makes all weapons and armor found in the world in much worse condition.
 
 - Repairing equipment has been made much less trivial thanks to [Repair Requires Materials](https://www.nexusmods.com/newvegas/mods/75145). Simply put, you need a material (Scrap Electronics, Scrap Metal, Duct Tape, Wonderglue, Leather Belt) and a tool (Wrench, Hammer, Whet Stone) to repair equipment. The higher your Repair skill, the lower the chance the materials and tools will break upon repairing an item.
