@@ -8,4 +8,4 @@
 
 - Combat is deadly and fast paced. [BLEEDLESS](https://www.nexusmods.com/newvegas/mods/75660?tab=description) increases the damage applied to limbs, as well as the force and radius of explosions. [Progressive Sneak Attack Damage](https://www.nexusmods.com/newvegas/mods/77571) makes sneak attack damage scale with your Sneak skill; no longer are sneak attacks a guaranteed damage boost.
 
-- [Immersive Fast Travel Requirements](https://www.nexusmods.com/newvegas/mods/73627?tab=description) makes fast traveling require either Trail Mix or Caravan Lunch and a Clear Water. A new perk called "Well Traveled" can be taken at level 10 and 40 Survival skill to reduce/elimate these requirements.
+- [Immersive Fast Travel Requirements](https://www.nexusmods.com/newvegas/mods/73627?tab=description) makes fast traveling require either Trail Mix or Caravan Lunch and a Clear Water. A new perk called "Well Traveled" can be taken at level 10 and 40 Survival skill to reduce/eliminate these requirements.
