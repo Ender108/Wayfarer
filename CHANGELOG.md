@@ -4,8 +4,10 @@ This update is NOT save safe.
 - Famine - A Loot Rarity Mod
 - JSawyer Ultimate Edition - Water Overhaul Patch
 - Repair Requires Materials
-- Progressive Difficulty
 - Progressive Sneak Attack Damage
+- RAD - Radiation (is) Actually Dangerous - Overhaul
+- BLEEDLESS
+- Vicous Wastes Damage Multipliers
 - Hit - Rock Recolor
 - Desert Style Weathers
 ### Removed
