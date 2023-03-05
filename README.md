@@ -2,7 +2,7 @@
 
 # Wayfarer - A Lightweight Difficulty Modlist
   
-## [Changelog](https://github.com/Ender108/Wayfarer---A-Wabbajack-Modlist-for-New-Vegas/blob/main/CHANGELOG.md) | [Discord](https://discord.gg/WF66mMu) | [Nexus Page](https://www.nexusmods.com/newvegas/mods/80133) | [Load Order Library](https://loadorderlibrary.com/lists/wayfarer)
+## [Changelog](https://github.com/Ender108/Wayfarer---A-Wabbajack-Modlist-for-New-Vegas/blob/main/CHANGELOG.md) | [Gameplay Guide](https://github.com/Ender108/Wayfarer/blob/main/GAMEPLAY.md) | [Discord](https://discord.gg/WF66mMu) | [Nexus Page](https://www.nexusmods.com/newvegas/mods/80133) | [Load Order Library](https://loadorderlibrary.com/lists/wayfarer)
   
  </div>
 
