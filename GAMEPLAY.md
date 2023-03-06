@@ -10,7 +10,7 @@
 
 - [Famine](https://www.nexusmods.com/newvegas/mods/74985) creates a much harder gameplay experience by making loot such as meds, ammo, and misc items more scarce. It also makes all weapons and armor found in the world in worse condition.
 
-- [Repair Requires Materials](https://www.nexusmods.com/newvegas/mods/75145) makes reparing equipment require a material (Scrap Electronics, Scrap Metal, Duct Tape, Wonderglue, Leather Belt) and a tool (Wrench, Hammer, Whet Stone). The higher your Repair skill, the lower the chance the materials and tools will break upon repairing an item.
+- [Repair Requires Materials](https://www.nexusmods.com/newvegas/mods/75145) makes reparing equipment require a material that will be consumed (Scrap Electronics, Scrap Metal, Duct Tape, Wonderglue, Leather Belt) and a tool that has a chance of breaking (Wrench, Hammer, Whet Stone). The higher your Repair skill, the lower the chance the tool will break upon repairing an item.
 
 ## Survival
 
