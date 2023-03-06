@@ -1,3 +1,10 @@
+## Version 1.2.2
+This update is save safe.
+### Added
+- Aid UI
+### Updated
+- B42 Notify - Corner Messages Overhaul - ESPless 0.2b
+
 ## Version 1.2.1
 This update is save safe.
 ### Added
