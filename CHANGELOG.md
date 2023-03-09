@@ -2,6 +2,7 @@
 This update is save safe.
 ### Added
 - Reload Reloaded
+- Viewmodel Recoil
 ### Removed 
 - Progressive Sneak Attack Damage (Reload Reloaded has a similar feature)
 
