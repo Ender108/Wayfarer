@@ -1,4 +1,4 @@
-## 1.2.3
+## Version 1.2.3
 This update is save safe.
 ### Added
 - Reload Reloaded
