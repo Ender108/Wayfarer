@@ -22,7 +22,7 @@
 
 ## Combat
 
-- Combat in Wayfarer is deadly and faster paced. [BLEEDLESS](https://www.nexusmods.com/newvegas/mods/75660?tab=description) increases the damage applied to limbs, as well as the force and radius of explosions. [Progressive Sneak Attack Damage](https://www.nexusmods.com/newvegas/mods/77571) makes sneak attack damage scale with your Sneak skill; no longer are sneak attacks a guaranteed 2x-5x damage boost.
+- Combat in Wayfarer is deadly and faster paced. [BLEEDLESS](https://www.nexusmods.com/newvegas/mods/75660?tab=description) increases the damage applied to limbs, as well as the force and radius of explosions. [Reload Reloaded](https://www.nexusmods.com/newvegas/mods/62266) replaces the agility modifiers to reload and draw speed, strength modifiers to throwing range, and custom sneak attack damage multipliers. Sneak attack damage now scales with your Sneak skill; no longer are they a guaranteed 2x-5x damage boost.
 
 - [Real Recoil](https://www.nexusmods.com/newvegas/mods/62153) adds a simple recoil system to all guns. [Consistent Spread](https://www.nexusmods.com/newvegas/mods/77974) fixes the buggy wobble when aiming down sights. [Dynamic Weapon Spread](https://www.nexusmods.com/newvegas/mods/74321) makes aiming down sights far more accurate, but each shot you fire makes the next slightly less accurate.
 
