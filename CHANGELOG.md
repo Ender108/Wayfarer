@@ -1,3 +1,10 @@
+## 1.2.3
+This update is save safe.
+### Added
+- Reload Reloaded
+### Removed 
+- Progressive Sneak Attack Damage (Reload Reloaded has a similar feature)
+
 ## Version 1.2.2
 This update is save safe.
 ### Added
