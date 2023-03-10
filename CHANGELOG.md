@@ -28,6 +28,12 @@ This update is save safe.
 - Hardcore Forever (Hardcore enabled by default)
 
 ## Version 1.2.0
+So after doing a playthrough I decided that Vicious Wastes wasn't really necessary for what I wanted to achieve with Wayfarer.
+
+Version 1.2.0 sort of reverts back to 1.0.0 in terms of mods but a lot has been added to ensure the difficulty remains consistent throughout. If you're still on 1.1.x I'd recommend just playing it out as Vicious Wastes is still a great rebalancing mod, just not what I was going for.
+
+I think this will sort of be the endgame of how I want this list to play, meaning there shouldn't be anymore big updates besides some bug fixing/updating. I could also be lying to myself lol so we will see.
+
 This update is NOT save safe.
 ### Added
 - Weapon Requirements System
