@@ -1,3 +1,12 @@
+## Version 1.2.4
+This update is save safe.
+### Added
+- Fallout Alpha Rendering Tweaks - NVSE
+- Economy Overhaul + FO3E INI
+### Updated
+- Stewie Tweaks Essentials INI to 1.04
+- Unofficial Patch NVSE Plus to 1.4.3
+
 ## Version 1.2.3
 This update is save safe.
 ### Added
