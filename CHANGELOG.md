@@ -1,3 +1,8 @@
+## Version 1.2.5
+This update is save safe.
+### Updated
+- Vanilla UI Plus to 9.48
+
 ## Version 1.2.4
 This update is save safe.
 ### Added
