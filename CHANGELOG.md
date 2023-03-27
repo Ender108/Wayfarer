@@ -1,7 +1,11 @@
 ## Version 1.2.5
 This update is save safe.
 ### Updated
+- Fallout Alpha Rendering Tweaks to 2.4.1
 - Vanilla UI Plus to 9.48
+- Essential Vanilla Enhancements Merged to 1.3.2
+- Desert Style Weathers to 1.2
+- 3D Rain to 2.0
 
 ## Version 1.2.4
 This update is save safe.
