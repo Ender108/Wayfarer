@@ -1,3 +1,8 @@
+## Version 1.2.6
+This update is save safe.
+### Removed
+- New Vegas Heap Replacer due to an incompatibility with Stewie Tweaks that causes crashes after long sessions.
+
 ## Version 1.2.5
 This update is save safe.
 ### Updated
