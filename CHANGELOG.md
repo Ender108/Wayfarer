@@ -1,3 +1,10 @@
+## Version 1.2.7
+This update is save safe.
+### Added 
+- New Vegas Heap Replacer
+### Updated
+- lStewieAl's Tweaks and Engine Fixes to 8.65
+
 ## Version 1.2.6
 This update is save safe.
 ### Removed
