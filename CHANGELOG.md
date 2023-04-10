@@ -1,3 +1,16 @@
+## Version 1.3.0
+This update is NOT save safe.
+### Added
+- ActorCause Save Bloat Fix
+- Vanilla Iron Sights Realligned - Redux
+- Iron Sights FOV (Zoom) Adjuster
+- PerkSawyer
+- Better Balanced Backpacks
+### Removed
+- Vanilla Iron Sights Realligned
+### Updated
+- Hardcore Charisma (was called Charisma Tweaks)
+
 ## Version 1.2.7
 This update is save safe.
 ### Added 
