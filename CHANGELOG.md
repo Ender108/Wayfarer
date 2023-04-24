@@ -1,3 +1,14 @@
+## Version 1.3.1
+This update is save safe.
+### Removed
+- Immersive Fast Travel Requirements - Water Overhaul Patch (fast traveling now needs Purified Water instead of Clear Water)
+### Updated 
+- Enhanced Landscapes
+- JIP LN Plugin
+- Desert Natural Weathers
+- Simple Open Strip 
+- Simple Open Freeside
+
 ## Version 1.3.0
 This update is NOT save safe.
 ### Added
