@@ -18,7 +18,7 @@
 
 - [RAD Overhaul](https://www.nexusmods.com/newvegas/mods/71541) decreases your max health based on how many rads you have, just like it does in Fallout 4. It also decreases your max action points depending on the severity of your Hardcore needs.
 
-- [Immersive Fast Travel Requirements](https://www.nexusmods.com/newvegas/mods/73627?tab=description) makes fast traveling require either Trail Mix or Caravan Lunch and a Clear Water from Water Overhaul. A new perk called "Well Traveled" can be taken at level 10 and 40 Survival skill to reduce/eliminate these requirements.
+- [Immersive Fast Travel Requirements](https://www.nexusmods.com/newvegas/mods/73627?tab=description) makes fast traveling require either Trail Mix or Caravan Lunch and a Purified Water. A new perk called "Well Traveled" can be taken at level 10 and 40 Survival skill to reduce/eliminate these requirements.
 
 ## Combat
 
