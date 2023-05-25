@@ -31,6 +31,7 @@ This update is NOT save safe.
 ### Removed
 - FOV Slider (till has bug with FOV getting set to zero after a killcam)
 - Iron Sights FOV (Zoom) Adjuster
+- 3rd Person Camera Overhaul
 - Diagonal Movement
 - Desert Style Weathers
 ### Updated
