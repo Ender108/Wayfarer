@@ -40,7 +40,7 @@ This update is NOT save safe.
 - EVEM - Mojave Arsenal Patch
 - EVEM - JSUE Patch
 - Desert Natural Weathers - NV - TTW
-- - Wayfarer - xLODGen Output
+- Wayfarer - xLODGen Output
 
 ## Version 1.3.1
 This update is save safe.
