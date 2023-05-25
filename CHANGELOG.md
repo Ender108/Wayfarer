@@ -1,3 +1,46 @@
+## Version 1.4.0
+This update is NOT save safe.
+### Added
+- NVTF - VNV Preset
+- Muzzle Flash Light Fix - NVSE
+- Depth of Field Fix - NVSE
+- Improved AI (Navmesh Overhaul Mod)
+- Crafting Consistency Fix
+- ExRB - Extended Roombounds
+- Johnson Nash Ammo Fix
+- Navmesh Overhaul VNV Patch
+- Better Caravan
+- Passive Combat Music Tweaked
+- Better Brotherhood
+- Off Limits
+- Lock Those Doors
+- Progressive Difficulty
+- EVEM - YUP Patch
+- EVEM - Crafting Consistency Fix Patch
+- Harder Barter Faster Stronger
+- Red On The Rocks
+- Hidden Valley Overhauled
+- Campfires and Hotplates
+- New Vegas - Enhanced Camera
+- Lock Those Doors
+- DiaMoveNVSE Patched
+- Desert Natural Sandstorms - NV - TTW
+- Desert Natural Realism - Redux
+- Cloud Shadows
+- Cloud Upgrade NVSE
+### Removed
+- FOV Slider (till has bug with FOV getting set to zero after a killcam)
+- Iron Sights FOV (Zoom) Adjuster
+- Diagonal Movement
+- Desert Style Weathers
+### Updated
+- Difficulty now set to Normal. Player will deal 1x damage and will take 1.5x damage at the start of the game. Damage dealt by the player will decrease by 0.5x every 5 levels, and damage recieved by the player will increase 0.10x every 5 levels. By level 35 the player will deal 0.65x damage and will take 2.20x damage
+- BSA Decompressor
+- EVEM - Mojave Arsenal Patch
+- EVEM - JSUE Patch
+- Desert Natural Weathers - NV - TTW
+- - Wayfarer - xLODGen Output
+
 ## Version 1.3.1
 This update is save safe.
 ### Removed
