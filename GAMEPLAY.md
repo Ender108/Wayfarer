@@ -1,6 +1,6 @@
 # Gameplay Guide
 
-### Wayfarer is meant to be played on Very Hard difficulty with Hardcore mode enabled. You can change these options if you wish but it will negatively affect the intended balance.
+### Wayfarer is meant to be played on Normal difficulty with Hardcore mode enabled. You can change these options if you wish but it will negatively affect the intended balance.
 
 - I strongly recommend taking a look at the Load Order Library and visiting the mod page for a mod you are curious or have questions about since I can't cover every gameplay change here. Below are what I feel to be the most notable ones.
 
