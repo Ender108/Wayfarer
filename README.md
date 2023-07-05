@@ -6,6 +6,8 @@
   
  </div>
 
+# Update as of July 3rd, 2023: Wayfarer will no longer be updated supported in any capacity. Thank you to everyone who played.
+
 ### Introduction
 
 Wayfarer is a lightweight difficulty based modlist for New Vegas. The goal of Wayfarer is to improve gameplay in a challenging yet rewarding way without completely overhauling the core New Vegas experience. Wayfarer also includes all essential stability mods and keeps visual mods to an absolute minimum to maximize performance.
